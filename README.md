@@ -4,4 +4,4 @@ No data or personal information is collected by any apps created by Antoni Kepin
 
 ##### Contact
 
-If you have any questions or suggestions regarding this privacy policy, do not hesitate to [contact me](mailto:a@kepinski.me?Subject=Privacy).
+If you have any questions or suggestions regarding this privacy policy, do not hesitate to [contact me](mailto:antoni@kepinski.ch?Subject=Privacy).
