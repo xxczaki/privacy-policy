@@ -4,4 +4,4 @@ No data or personal information is collected by any apps created by Antoni Kępi
 
 ##### Contact
 
-If you have any questions or suggestions regarding this privacy policy, do not hesitate to [contact me](mailto:antoni@kepinski.ch?Subject=Privacy).
+If you have any questions or suggestions regarding this privacy policy, do not hesitate to [contact me](mailto:spam+github-privacy@xxczaki.com?Subject=Privacy).
