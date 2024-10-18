@@ -1,6 +1,6 @@
 # Privacy Policy
 
-No data or personal information is collected by any apps created by Antoni Kępiński ([xxczaki](https://github.com/xxczaki) on GitHub).
+No data or personal information is collected by any open-source apps created by Antoni Kępiński ([xxczaki](https://github.com/xxczaki) on GitHub).
 
 ##### Contact
 
